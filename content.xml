@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+	id="z_scaco_NoHazardRegions"
+	name="z_scaco_NoHazardRegions"
+	description="Die Gefährlichen Regionen machen nun nur noch Schildschaden"
+	author="Scaco"
+	version="101"
+	date="2023-05-01"
+	save="0"
+	enabled="1">
+</content>
